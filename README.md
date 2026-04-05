@@ -32,7 +32,7 @@ The analysis of Fitbit user data revealed that users often struggled with mainta
 High-intensity activities burned more calories, making them a more time-efficient compared to low-intensity activities.
 
 *90% dropped off after 2 weeks*  
-![image-2.png](attachment:image-2.png)  
+![Bellabeat_Dashboard](02_Bellabeat_Case_Study/Bellabeat_Dashboard.png)  
 *image 2*  
 
 *Users were most active on Saturdays*  
