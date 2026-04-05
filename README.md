@@ -32,19 +32,19 @@ The analysis of Fitbit user data revealed that users often struggled with mainta
 High-intensity activities burned more calories, making them a more time-efficient compared to low-intensity activities.
 
 *90% dropped off after 2 weeks*  
-![Users_Who_Tracked_Activity_More_Than_2_Weeks](02_Bellabeat_Case_Study/Bellabeat_Tracking_Activity_After_2_Weeks.png)  
+![Users_Who_Tracked_Activity_More_Than_2_Weeks](02_Bellabeat_Case_Study/Users_with_more_than_2_weeks_activity_tracked.png)  
 *image 2*  
 
 *Users were most active on Saturdays*  
-![image-3.png](attachment:image-3.png)  
+![Average_Steps_By_Weekday](02_Bellabeat_Case_Study/Average_Steps_by_Weekday.png)  
 *image 3*  
 
 *Early evening was the most active time of the day*  
-![image-4.png](attachment:image-4.png)  
+![Daily_Steps_Activity](02_Bellabeat_Case_Study/Daily_Steps_Activity.png)  
 *image 4*   
 
 *The importance of high-intensity activities*  
-![image-5.png](attachment:image-5.png)  
+![Calories_Burned_per_Minute_by_Activity_Type](02_Bellabeat_Case_Study/Calories_Burned_per_Minute_by_Activity_Type_Bellabeat.png)  
 *image 5*  
 
 Although Fitbit users generally struggle with motivation, insights from the data reveal that early evenings and Saturdays are the most motivating times for activity. Furthermore, high-intensity workouts offer a time-efficient approach, which can be leveraged to support Bellabeat's goals.  
