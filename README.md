@@ -11,7 +11,7 @@ The final deliverables include a presentation and report with recommendations to
 ### Business Task:
 **Analyze** Fitbit smart device usage data to gain insights into **how consumers use smart devices**.  
 
-![Bellabeat_Dashboard](02_BellabeatCaseStudy/Bellabeat_Dashboard.png)  
+![Bellabeat_Dashboard](02_Bellabeat_Case_Study/Bellabeat_Dashboard.png)  
 *image 1*  
 
 ### Methodology:
